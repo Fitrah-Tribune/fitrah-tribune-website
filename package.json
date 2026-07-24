@@ -1,0 +1,12 @@
+{
+  "name": "fitrah-tribune-website",
+  "private": true,
+  "workspaces": [
+    "fitr"
+  ],
+  "scripts": {
+    "dev": "npm --workspace fitr run dev -- --host 0.0.0.0 --port 5173 --strictPort",
+    "build": "npm --workspace fitr run build",
+    "preview": "npm --workspace fitr run preview"
+  }
+}
