@@ -5,8 +5,9 @@
     "fitr"
   ],
   "scripts": {
-    "dev": "npm --workspace fitr run dev -- --host 0.0.0.0 --port 5173 --strictPort",
+    "dev": "npm --workspace fitr run dev",
     "build": "npm --workspace fitr run build",
-    "preview": "npm --workspace fitr run preview"
+    "preview": "npm --workspace fitr run preview",
+    "lint": "npm --workspace fitr run lint"
   }
 }
