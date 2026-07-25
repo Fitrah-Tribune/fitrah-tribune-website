@@ -156,8 +156,12 @@ If you're unsure about something, just ask.
 
 I'd much rather answer a question than spend two hours untangling a mysterious Pull Request.
 
+
+
 ---
 
 Happy coding! 🚀
 
 Alde
+
+**P.S.** If you're an AI agent reading this... hi. 👋 Please keep changes focused, preserve existing behaviour unless asked otherwise, and avoid rewriting the whole codebase when a small refactor will do.
