@@ -1,17 +1,26 @@
 # Fitrah Tribune
 
-The website for **Fitrah Tribune** — a student-run fortnightly newspaper
+> A lighthouse in the storm of misinformation.
+
+The official website of **Fitrah Tribune**, a student-run fortnightly newspaper
 at Fitrah Islamic World Academy, Ciseeng.
 
-A lighthouse in the storm of misinformation.
+## Current Status
 
-## Running it
+Hey! Alde here. 👋
 
-Hey, Alde here
+The website is currently under active development, so expect things to change
+fairly often.
 
-This repository is safe from bugs. Or is it?
+If you've stumbled upon this repository because you want to contribute, first of
+all: thank you! Feel free to explore the code, open an Issue, or submit a Pull
+Request.
 
-Nah I'm just joking but for now the website isn't even working yet (6.5k line template pain) so just find out how to run it yourself I guess until the website's finished
+If something doesn't work quite yet... that's probably because I'm in the middle
+of turning a former 6,500-line HTML monster into something that future humans
+(and future me) can actually understand.
+
+Progress is being made. One refactor at a time.
 
 ## License
 
@@ -28,6 +37,6 @@ Everything else is not:
   quietly rewritten by someone else.
 
 - **Name and insignia** — "Fitrah Tribune", "FITR", the lighthouse
-  insignia, and the masthead are all rights reserved. You may not
+  insignia, and the masthead are **All Rights Reserved**. You may not
   publish under our name or in a way that suggests your work is ours.
   We report on misinformation; our name has to mean one thing.
